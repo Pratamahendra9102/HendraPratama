@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/HendraPratama/static/css/main.85096027.chunk.css",
+    "main.js": "/HendraPratama/static/js/main.2f5e6b22.chunk.js",
+    "main.js.map": "/HendraPratama/static/js/main.2f5e6b22.chunk.js.map",
+    "runtime-main.js": "/HendraPratama/static/js/runtime-main.cd071f60.js",
+    "runtime-main.js.map": "/HendraPratama/static/js/runtime-main.cd071f60.js.map",
+    "static/js/2.f6aed957.chunk.js": "/HendraPratama/static/js/2.f6aed957.chunk.js",
+    "static/js/2.f6aed957.chunk.js.map": "/HendraPratama/static/js/2.f6aed957.chunk.js.map",
+    "index.html": "/HendraPratama/index.html",
+    "precache-manifest.6cbb7ceb752dfab1c7605a8d44c90612.js": "/HendraPratama/precache-manifest.6cbb7ceb752dfab1c7605a8d44c90612.js",
+    "service-worker.js": "/HendraPratama/service-worker.js",
+    "static/css/main.85096027.chunk.css.map": "/HendraPratama/static/css/main.85096027.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd071f60.js",
+    "static/js/2.f6aed957.chunk.js",
+    "static/css/main.85096027.chunk.css",
+    "static/js/main.2f5e6b22.chunk.js"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "short_name": "SISTEM KONTROL DAN MONITORING KONSUMSI ENERGI LISTRIK SECARA REALTIME BERBASIS INTERNET OF THINGS (IoT)",
+  "name": "SISTEM KONTROL DAN MONITORING KONSUMSI ENERGI LISTRIK SECARA REALTIME BERBASIS INTERNET OF THINGS (IoT)",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
