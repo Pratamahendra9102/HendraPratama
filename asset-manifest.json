@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/HendraPratama/static/css/main.85096027.chunk.css",
-    "main.js": "/HendraPratama/static/js/main.cffc7fe5.chunk.js",
-    "main.js.map": "/HendraPratama/static/js/main.cffc7fe5.chunk.js.map",
+    "main.js": "/HendraPratama/static/js/main.ad20d0b1.chunk.js",
+    "main.js.map": "/HendraPratama/static/js/main.ad20d0b1.chunk.js.map",
     "runtime-main.js": "/HendraPratama/static/js/runtime-main.cd071f60.js",
     "runtime-main.js.map": "/HendraPratama/static/js/runtime-main.cd071f60.js.map",
     "static/js/2.f6aed957.chunk.js": "/HendraPratama/static/js/2.f6aed957.chunk.js",
     "static/js/2.f6aed957.chunk.js.map": "/HendraPratama/static/js/2.f6aed957.chunk.js.map",
     "index.html": "/HendraPratama/index.html",
-    "precache-manifest.6b1d5b393553010a9f062b7e62ce90b7.js": "/HendraPratama/precache-manifest.6b1d5b393553010a9f062b7e62ce90b7.js",
+    "precache-manifest.a539f85cf34e032de43015d916bf513f.js": "/HendraPratama/precache-manifest.a539f85cf34e032de43015d916bf513f.js",
     "service-worker.js": "/HendraPratama/service-worker.js",
     "static/css/main.85096027.chunk.css.map": "/HendraPratama/static/css/main.85096027.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.cd071f60.js",
     "static/js/2.f6aed957.chunk.js",
     "static/css/main.85096027.chunk.css",
-    "static/js/main.cffc7fe5.chunk.js"
+    "static/js/main.ad20d0b1.chunk.js"
   ]
 }
