@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ff9089f32fb8bddc2469df4f7a62691",
+    "revision": "c87b591bef86f27e464d99d5389c50d8",
     "url": "/HendraPratama/index.html"
   },
   {
-    "revision": "9ccb0ac8a3185846f147",
+    "revision": "b672e59e41d9109a4c05",
     "url": "/HendraPratama/static/css/main.85096027.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HendraPratama/static/js/2.f6aed957.chunk.js"
   },
   {
-    "revision": "9ccb0ac8a3185846f147",
-    "url": "/HendraPratama/static/js/main.d63488db.chunk.js"
+    "revision": "b672e59e41d9109a4c05",
+    "url": "/HendraPratama/static/js/main.4cdca0a5.chunk.js"
   },
   {
     "revision": "978cf25972f47b303319",
